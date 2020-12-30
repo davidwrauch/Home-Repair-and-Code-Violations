@@ -1,0 +1,1 @@
+This is python code to understand the relationship between the number of building code violations and the presence of home repair loans at the neighborhood level of Austin ,TX. This informed to what extent the home repair program administered by the City of Austin was being used in neighborhoods that had the highest level of building condition need.
