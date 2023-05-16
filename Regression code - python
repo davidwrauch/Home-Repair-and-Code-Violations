@@ -18,7 +18,7 @@ df.plot(x='Count of violations', y='count of home repairs', kind='scatter')
 plt.show()
 
 # Create regression model
-reg = sm.OLS(endog=df['Cound of violations'], exog=df[['count of home repairs']], missing='drop')
+reg = sm.OLS(endog=df['Count of violations'], exog=df[['count of home repairs']], missing='drop')
 type(reg)
 
 # Create fit
