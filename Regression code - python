@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 plt.style.use('seaborn')
 
-df.plot(x='Cound of violations', y='count of home repairs', kind='scatter')
+df.plot(x='Count of violations', y='count of home repairs', kind='scatter')
 plt.show()
 
 # Create regression model
